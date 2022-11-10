@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "email": "dilezeniv@mailinator.com",
+      "password": "$2a$10$2WJZ9VFBXkWZ0Vbi9waLqukU96.jP428cNpbJLFaotU56ZNhSmy.O",
+      "firstname": "Sonya",
+      "lastname": "Baker",
+      "id": 1
+    },
+    {
+      "email": "fuqowexo@mailinator.com",
+      "password": "$2a$10$ZCIbNhj4/Mg0b6qNG81yBOyy/.fnrr9ZIISdklAU5eJ8s3NkW1d6O",
+      "firstname": "Chantale",
+      "lastname": "Langley",
+      "id": 2
+    }
+  ]
+}
